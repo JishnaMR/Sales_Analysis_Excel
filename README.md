@@ -18,22 +18,18 @@ Dashboards:excel, Developed dashboards to visualize sales performance by region,
 
 
 Dataset
-
 <a href="https://github.com/JishnaMR/Sales_Analysis_Excel/blob/main/data_excel.csv">rowdata</a>
 
 
 After Cleaning dataset 
-
 <a href="https://github.com/JishnaMR/Sales_Analysis_Excel/blob/main/sales%20_analysis_excel.csv">Data</a>
 
 
-##Dashboard
-
+Dashboard
 <a href="https://github.com/JishnaMR/Sales_Analysis_Excel/blob/main/Dashboard.png">Dashboard</a>
 
 
-##pivot_Table
-
+pivot_Table
 <a href="https://github.com/JishnaMR/Sales_Analysis_Excel/blob/main/pivot_table.csv">Pivot_table</a>
 
 
