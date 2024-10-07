@@ -9,23 +9,20 @@ Data Cleaning & Preprocessing: Handled missing values, outliers, and inconsisten
 
 Analysis Tools:
 
-
 Pivot Tables: excel .
 
-
 Excel Functions: Utilized functions like SUM(), AVERAGE(), MAX(), and MIN() for calculations.
-
 
 Data Visualization: Created pie charts for sales distribution, line charts for sales trends, and other visual tools to highlight key insights.
 Dashboards:excel, Developed dashboards to visualize sales performance by region, product, and payment type.
 
 
-##Dataset
+Dataset
 
 <a href="https://github.com/JishnaMR/Sales_Analysis_Excel/blob/main/data_excel.csv">rowdata</a>
 
 
-##Cleaning dataset and excel functions
+After Cleaning dataset 
 
 <a href="https://github.com/JishnaMR/Sales_Analysis_Excel/blob/main/sales%20_analysis_excel.csv">Data</a>
 
